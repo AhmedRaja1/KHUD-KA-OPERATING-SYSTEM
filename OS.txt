@@ -1,1 +1,0 @@
-Will soon work on a debian-distribution 
