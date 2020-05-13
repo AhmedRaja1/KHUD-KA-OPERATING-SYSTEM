@@ -16,6 +16,7 @@ Online book about how to write a computer operating system in C/C++ from scratch
 **Questions**: Feel free to ask any questions by adding issues or commenting sections.
 
 You can follow me on Twitter [@SamyPesse](https://twitter.com/SamyPesse) or [GitHub](https://github.com/SamyPesse).
+<img src = "https://github.com/AhmedRaja1/KHUD-KA-OPERATING-SYSTEM/blob/master/cover_small.jpg">
 
 ### What kind of OS are we building?
 
