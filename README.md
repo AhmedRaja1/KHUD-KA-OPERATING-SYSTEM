@@ -2,6 +2,7 @@ How to Make a Computer Operating System
 =======================================
 # COVER
 <img src = "https://github.com/AhmedRaja1/KHUD-KA-OPERATING-SYSTEM/blob/master/OS.png">
++++++
 
 Online book about how to write a computer operating system in C/C++ from scratch.
 
