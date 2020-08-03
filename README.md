@@ -25,4 +25,5 @@ The main motive is to build a very simple UNIX-based operating system in C++, no
 ![Screen](./preview.png)
 <br/>
  CONTRIBUTED BY RAJA AHMED FROM PAKISTAN 💚
+ <br/>
  OPEN SOURCE CONTRIBUTION 2020 
