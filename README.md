@@ -23,5 +23,5 @@ You can follow me on Twitter [@SamyPesse](https://twitter.com/SamyPesse) or [Git
 The main motive is to build a very simple UNIX-based operating system in C++, not just a "proof-of-concept". The OS should be able to boot, start a userland shell, and be extensible.
 
 ![Screen](./preview.png)
- # CONTRIBUTED BY RAJA AHMED FROM PAKISTAN 💚
- # OPEN SOURCE CONTRIBUTION 2020 
+ CONTRIBUTED BY RAJA AHMED FROM PAKISTAN 💚
+ OPEN SOURCE CONTRIBUTION 2020 
